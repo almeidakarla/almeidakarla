@@ -1,4 +1,4 @@
-UI designer and front-end developer. Passionate about integrating design and development to create seamless experiences at scale.
+Front-end developer and UI designer. Passionate about integrating design and development to create seamless experiences at scale.
 
 ##
 
@@ -10,6 +10,7 @@ UI designer and front-end developer. Passionate about integrating design and dev
   <img align="center" alt="Karla-Figma" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg">
   <img align="center" alt="Karla-Bootstrap" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Karla-WordPress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg">
+  <img align="center" alt="Karla-Flutter" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg">
 </div>
 
 ##
