@@ -1,4 +1,4 @@
-Web developer and UI designer. Passionate about solving problems with coding to create seamless experiences at scale.
+Web developer and UI designer. Passionate about solving problems with coding + design to create seamless experiences at scale.
 
 ##
 
