@@ -14,10 +14,10 @@ Web developer and UI designer. Passionate about solving problems with coding + d
 <div style="display: inline_block"><br>
   <img align="center" alt="Karla-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   <img align="center" alt="Karla-Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img align="center" alt="Karla-Flutter" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
   <img align="center" alt="Karla-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="Karla-WordPress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"> 
   <img align="center" alt="Karla-PHP" src="https://img.shields.io/badge/php-%234f5b93?style=for-the-badge&logo=PHP&logoColor=white">
+  <img align="center" alt="Karla-PHP" src="https://img.shields.io/badge/photoshop-black?style=for-the-badge&logo=adobe&logoColor=blue&labelColor=black">
 </div>
 
 ##
