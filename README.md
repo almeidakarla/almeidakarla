@@ -16,8 +16,7 @@ Web developer and UI designer. Passionate about solving problems with coding + d
   <img align="center" alt="Karla-Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
   <img align="center" alt="Karla-WordPress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"> 
   <img align="center" alt="Karla-PHP" src="https://img.shields.io/badge/php-%234f5b93?style=for-the-badge&logo=PHP&logoColor=white">
-  <img align="center" alt="Karla-PS" src="https://img.shields.io/badge/photoshop-black?style=for-the-badge&logo=adobe&logoColor=blue&labelColor=black">
-  <img align="center" alt="Karla-Illustrator" src="https://img.shields.io/badge/illustrator-black?style=for-the-badge&logo=Adobe&logoColor=orange&labelColor=black">
+  <img align="center" alt="Karla-Adobe" src="https://img.shields.io/badge/adobe%20suite-black?style=for-the-badge&logo=Adobe&logoColor=red&labelColor=black">
 </div>
 
 ##
