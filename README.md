@@ -3,7 +3,7 @@ Web developer and designer. Passionate about solving problems with coding + desi
 ##
 
 Front-end:
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Karla-JS" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
   <img align="center" alt="Karla-React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">  
   <img align="center" alt="Karla-HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
@@ -18,7 +18,7 @@ Front-end:
 ##
 
 Back-end:
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Karla-PHP" src="https://img.shields.io/badge/php-%234f5b93?style=for-the-badge&logo=PHP&logoColor=white">  
   <img align="center" alt="Karla-MySQL" src="https://img.shields.io/badge/MySQL-%2300618a?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=%2300618a&color=%23e48e00">
   <img align="center" alt="Karla-Python" src="https://img.shields.io/badge/python-%23ffe66d?style=for-the-badge&logo=python">
@@ -27,7 +27,7 @@ Back-end:
 ##
 
 Design:
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Karla-Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   <img align="center" alt="Karla-Adobe" src="https://img.shields.io/badge/adobe%20suite-black?style=for-the-badge&logo=Adobe&logoColor=red&labelColor=black">
 </div>
