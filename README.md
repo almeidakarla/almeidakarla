@@ -19,6 +19,7 @@ Front-end:
 
 Back-end:
 <div style="display: inline_block">
+  <img align="center" alt="Karla-Node" src="https://img.shields.io/badge/node-green?style=for-the-badge&logo=node.js&logoColor=white&logoSize=auto">
   <img align="center" alt="Karla-PHP" src="https://img.shields.io/badge/php-%234f5b93?style=for-the-badge&logo=PHP&logoColor=white">  
   <img align="center" alt="Karla-MySQL" src="https://img.shields.io/badge/MySQL-%2300618a?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=%2300618a&color=%23e48e00">
   <img align="center" alt="Karla-Python" src="https://img.shields.io/badge/python-%23ffe66d?style=for-the-badge&logo=python">
