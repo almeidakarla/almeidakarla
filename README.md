@@ -1,4 +1,4 @@
-Front-end web developer and designer. Passionate about solving problems with coding + design to create seamless experiences at scale.
+Web developer and designer. Passionate about solving problems with coding + design to create seamless experiences at scale.
 
 ##
 
