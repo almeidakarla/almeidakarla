@@ -30,7 +30,8 @@ Back-end:
 
 Database:
 <div style="display: inline_block">
-  <img align="center" alt="Karla-Supabase" src="https://img.shields.io/badge/supabase-green?style=for-the-badge&logo=supabase.js&logoColor=white&logoSize=auto">
+  <img align="center" alt="Karla-Supabase" src="https://img.shields.io/badge/supabase-black?style=for-the-badge&logo=supabase">
+
 </div>
 
 ##
