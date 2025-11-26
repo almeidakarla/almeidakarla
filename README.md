@@ -28,6 +28,13 @@ Back-end:
 
 ##
 
+Database:
+<div style="display: inline_block">
+  <img align="center" alt="Karla-Supabase" src="https://img.shields.io/badge/supabase-green?style=for-the-badge&logo=supabase.js&logoColor=white&logoSize=auto">
+</div>
+
+##
+
 Design:
 <div style="display: inline_block">
   <img align="center" alt="Karla-Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
