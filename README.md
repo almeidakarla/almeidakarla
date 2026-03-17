@@ -13,6 +13,7 @@ Front-end:
   <img align="center" alt="Karla-TailwindCSS" src="https://img.shields.io/badge/tailwind%20css-%231ab1bb?style=for-the-badge&logo=tailwind%20css&logoColor=white">
   <img align="center" alt="Karla-WordPress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
   <img align="center" alt="Karla-Shopify" src="https://img.shields.io/badge/shopify-black?style=for-the-badge&logo=shopify">
+  <img align="center" alt="Karla-Typescript" src="https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript">
 </div>
 
 ##
