@@ -11,9 +11,8 @@ Front-end:
   <img align="center" alt="Karla-CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <br><br>
   <img align="center" alt="Karla-TailwindCSS" src="https://img.shields.io/badge/tailwind%20css-%231ab1bb?style=for-the-badge&logo=tailwind%20css&logoColor=white">
-  <img align="center" alt="Karla-Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">  
-  <img align="center" alt="Karla-Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
-  <img align="center" alt="Karla-WordPress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">   
+  <img align="center" alt="Karla-WordPress" src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white">
+  <img align="center" alt="Karla-Shopify" src="https://img.shields.io/badge/shopify-black?style=for-the-badge&logo=shopify">
 </div>
 
 ##
@@ -23,7 +22,6 @@ Back-end:
   <img align="center" alt="Karla-Node" src="https://img.shields.io/badge/node-green?style=for-the-badge&logo=node.js&logoColor=white&logoSize=auto">
   <img align="center" alt="Karla-PHP" src="https://img.shields.io/badge/php-%234f5b93?style=for-the-badge&logo=PHP&logoColor=white">  
   <img align="center" alt="Karla-MySQL" src="https://img.shields.io/badge/MySQL-%2300618a?style=for-the-badge&logo=MySQL&logoColor=white&labelColor=%2300618a&color=%23e48e00">
-  <img align="center" alt="Karla-Python" src="https://img.shields.io/badge/python-%23ffe66d?style=for-the-badge&logo=python">
 </div>
 
 ##
